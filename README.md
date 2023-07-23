@@ -1,8 +1,8 @@
 # SI_ToDo-phpNative
-Todo List App php full Native
-Si Todo versi php Native
+<h3>Todo List App php full Native</h3> <br>
+Si Todo versi php Native <br>
 *Maapkeun kalo masih ada bug :3
-
-admin page : 
-admin@admin.com
+<hr>
+admin page : <br>
+admin@admin.com <br>
 admin123
